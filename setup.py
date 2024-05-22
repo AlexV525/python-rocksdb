@@ -13,7 +13,6 @@ extra_compile_args = [
     '-std=c++17',
     '-O3',
     '-Wall',
-    '-Wconversion',
     '-fno-strict-aliasing',
     '-fno-rtti',
 ]
